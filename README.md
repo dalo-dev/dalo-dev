@@ -40,3 +40,10 @@ I'm a passionate Software Engineer student based in Colombia.
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />  
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 <p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&theme=transparent" width="350"></a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&layout=donut&theme=transparent" width="350"></a>
+</p>
