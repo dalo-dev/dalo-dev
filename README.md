@@ -1,8 +1,6 @@
-<h2 align="left">
-  Hi there 👋 Daniel here!
-  <br />
-  I'm a passionate Software Engineer student based in Colombia.
-</h2>
+<h1>Hi there 👋 Daniel here!</h1>
+
+### I'm a passionate Software Engineer student based in Colombia.
 
 ###
 
@@ -61,7 +59,9 @@
 
 <div align="left">
   <h3>My workspace 💻</h3>
+  <img src="https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=msi&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%202060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
