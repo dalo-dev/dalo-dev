@@ -44,15 +44,19 @@
 
 <div align="left">
   <h3>I'm currently learning 📖</h3>
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TS logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C# logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt=".NET logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="Grafana logo"  />
 </div>
 
 ###
