@@ -56,7 +56,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt=".NET logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="Grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo"  />
+  <img width="12" />
 </div>
 
 ###
