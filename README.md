@@ -52,6 +52,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="Mysql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C# logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt=".NET logo"  />
