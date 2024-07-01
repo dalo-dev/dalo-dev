@@ -77,3 +77,5 @@
 </div>
 
 ###
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalo-dev&theme=tokyo-night" alt="Graph" />
