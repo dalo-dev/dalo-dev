@@ -80,6 +80,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalo-dev&theme=tokyo-night" alt="Graph" />
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/dalo-dev?theme=auto&font=baloo&extension=null" height="150" alt="Leetcode" />  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="150" alt="Quote" />  
+  <img src="https://leetcard.jacoblin.cool/dalo-dev?ext=activity" alt="Leetcode" />  
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" height="400" alt="Quote" />  
 </div>
