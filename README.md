@@ -31,7 +31,17 @@
 
 ###
 
-<img align="right" height="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalo-dev&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"  />
+<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dalo-dev&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dalo-dev&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=default&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="right" height="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalo-dev&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"  />
+  </picture>
 
 ###
 
@@ -97,7 +107,17 @@
 
 ###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalo-dev" alt="Graph" />
+<picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dalo-dev&theme=tokyo-night"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dalo-dev"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalo-dev&theme=tokyo-night" alt="Graph" />
+  </picture>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/dalo-dev?ext=activity"  height="300" alt="Leetcode" />  
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical" height="300" alt="Quote" />  
