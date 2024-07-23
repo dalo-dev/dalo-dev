@@ -43,22 +43,24 @@
 
 <div align="left">
   <h3>I'm currently learning 📖</h3>
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TS logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="Mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C# logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt=".NET logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwind logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/bem/000000/FFFFFF" height="30" alt="BEM logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/eslint" height="30" alt="eslint logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/vite" height="30" alt="vite logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/dotnet" height="30" alt=".net logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
+  <img width="6" />
 </div>
 
 ###
