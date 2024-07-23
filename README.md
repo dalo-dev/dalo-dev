@@ -5,8 +5,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight#gh-dark-mode-only" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only" height="150" alt="stats graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5#gh-dark-mode-only" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5#gh-light-mode-only" height="150" alt="streak graph"  />
 </div>
 
 ###
