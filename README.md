@@ -17,30 +17,26 @@
 
 <div align="left">
   <h3>My Stack 💪</h3>
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/css3" height="30" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" height="30" alt="github logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/gitlab" height="30" alt="gitlab logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/npm" height="30" alt="npm logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" height="30" alt="angular logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/sass" height="30" alt="sass logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/prettier" height="30" alt="prettier logo"  />
+  <img width="6" />
 </div>
 
 ###
