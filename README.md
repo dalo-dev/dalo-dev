@@ -63,6 +63,8 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" height="30" alt="angular logo"  />
   <img width="6" />
+  <img src="https://cdn.simpleicons.org/bem/000000/FFFFFF" height="30" alt="BEM logo"  />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/sass" height="30" alt="sass logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/prettier" height="30" alt="prettier logo"  />
@@ -76,8 +78,6 @@
   <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwind logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/bem/000000/FFFFFF" height="30" alt="BEM logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/eslint" height="30" alt="eslint logo"  />
   <img width="6" />
