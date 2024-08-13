@@ -87,7 +87,7 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/dotnet" height="30" alt=".net logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="30" alt="node.js logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
   <img width="6" />
