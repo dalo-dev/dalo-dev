@@ -77,19 +77,19 @@
   <h3>I'm currently learning 📖</h3>
   <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
   <img width="6" />
+  <img src="https://cdn.simpleicons.org/reactrouter" height="30" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/cssmodules/181717/ffffff" height="30" alt="react logo"  />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwind logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/reactquery" height="30" alt="mysql logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/eslint" height="30" alt="eslint logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/vite" height="30" alt="vite logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="30" alt="node.js logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
   <img width="6" />
 </div>
 
