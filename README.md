@@ -83,6 +83,8 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/shadcnui/181717/ffffff" height="30" alt="shadcnui logo"  />
   <img width="6" />
+  <img src="https://cdn.simpleicons.org/zod" height="30" alt="Zod logo"  />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/axios" height="30" alt="axios logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/eslint" height="30" alt="eslint logo"  />
