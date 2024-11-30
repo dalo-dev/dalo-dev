@@ -81,7 +81,7 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwind logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/mui" height="30" alt="MUI logo"  />
+  <img src="https://cdn.simpleicons.org/shadcnui/181717/ffffff" height="30" alt="shadcnui logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/axios" height="30" alt="axios logo"  />
   <img width="6" />
