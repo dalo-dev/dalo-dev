@@ -73,6 +73,8 @@
 
 <div align="left">
   <h3>I'm currently learning 📖</h3>
+  <img src="https://cdn.simpleicons.org/pnpm" height="30" alt="pnpm logo"  />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/reactrouter" height="30" alt="mysql logo"  />
