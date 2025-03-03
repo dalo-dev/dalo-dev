@@ -61,6 +61,8 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/npm" height="30" alt="npm logo"  />
   <img width="6" />
+  <img src="https://cdn.simpleicons.org/pnpm" height="30" alt="pnpm logo"  />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" height="30" alt="angular logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/sass" height="30" alt="sass logo"  />
@@ -73,8 +75,6 @@
 
 <div align="left">
   <h3>I'm currently learning 📖</h3>
-  <img src="https://cdn.simpleicons.org/pnpm" height="30" alt="pnpm logo"  />
-  <img width="6" />
   <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/reactrouter" height="30" alt="mysql logo"  />
