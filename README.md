@@ -101,17 +101,17 @@
 
 <div align="left">
   <h3>My workspace 💻</h3>
-  <img src="https://cdn.simpleicons.org/debian" height="30" alt="Debian logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/nvidia" height="30" alt="Nvidia logo"  />
+  <img src="https://cdn.simpleicons.org/nixos" height="30" alt="NixOS logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/i3" height="30" alt="I3 logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/wezterm" height="30" alt="Wezterm logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/vscodium" height="30" alt="Vscode logo"  />
-  <img width="6" />
   <img src="https://cdn.simpleicons.org/brave" height="30" alt="Brave logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/zedindustries" height="30" alt="Zed logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/claude" height="30" alt="Claude logo"  />
   <img width="6" />
 </div>
 
