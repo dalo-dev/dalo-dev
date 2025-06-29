@@ -16,10 +16,6 @@ A Systems Engineering student with a strong focus on frontend development. Passi
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/javascript" alt="JavaScript logo"  />
   <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" alt="Angular logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/sass" alt="Sass logo"  />
-  <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/git" alt="Git logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/github/181717/ffffff" alt="GitHub logo"  />
@@ -30,30 +26,39 @@ A Systems Engineering student with a strong focus on frontend development. Passi
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/pnpm" alt="PNPM logo"  />
   <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/react" alt="React logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/reactrouter" alt="React Router logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/shadcnui/181717/ffffff" alt="shadcn/ui logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/axios" alt="Axios logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" alt="Angular logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/sass" alt="Sass logo"  />
+  <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/prettier" alt="Prettier logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/vite" alt="Vite logo"  />
+  <img width="6" />
 </div>
 
 <br>
 
 <div align="left">
   <h3>Currently Learning</h3>
-  <img height="30" src="https://cdn.simpleicons.org/react" alt="React logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/reactrouter" alt="React Router logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/cssmodules/181717/ffffff" alt="CSS Modules logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/shadcnui/181717/ffffff" alt="shadcn/ui logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/zod" alt="Zod logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/axios" alt="Axios logo"  />
+  <img height="30" src="https://cdn.simpleicons.org/bem/000000/FFFFFF" alt="BEM logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/eslint" alt="ESLint logo"  />
   <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/vite" alt="Vite logo"  />
+  <img height="30" src="https://cdn.simpleicons.org/vitest" alt="Vitest logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/jest" alt="Jest logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/testinglibrary" alt="Testing Library logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/typescript" alt="TypeScript logo"  />
 </div>
@@ -81,16 +86,29 @@ A Systems Engineering student with a strong focus on frontend development. Passi
   <img height="30" src="https://cdn.simpleicons.org/claude" alt="Claude AI logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/v0/000000/FFFFFF" alt="V0 logo"  />
+</div>
+
+<br>
+
+<div align="left">
+  <h3>My learning platforms</h3>
+  <img height="30" src="https://cdn.simpleicons.org/udemy" alt="Udemy logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/platzi" alt="Platzi logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/roadmapdotsh/000000/FFFFFF" alt="Roadmap.sh logo"  />
 </div>
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 Some Stats
 
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -101,7 +119,7 @@ A Systems Engineering student with a strong focus on frontend development. Passi
   </picture>
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5"
+      srcset="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -117,24 +135,24 @@ A Systems Engineering student with a strong focus on frontend development. Passi
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=tokyonight" height="300" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=dark" height="300" alt="Top Languages"/>
   </picture>
   <picture>
     <source
-      srcset="https://leetcard.jacoblin.cool/dalo-dev?theme=catppuccinMocha&ext=activity&border=2"
+      srcset="https://leetcard.jacoblin.cool/dalo-dev?theme=dark&ext=activity&border=2"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://leetcard.jacoblin.cool/dalo-dev?theme=catppuccinMocha&ext=activity&border=2"
+      srcset="https://leetcard.jacoblin.cool/dalo-dev?theme=light&ext=activity&border=2"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://leetcard.jacoblin.cool/dalo-dev?theme=catppuccinMocha&ext=activity&border=2" height="300" alt="Leetcode Activity" />
+    <img src="https://leetcard.jacoblin.cool/dalo-dev?theme=dark&ext=activity&border=2" height="300" alt="Leetcode Activity" />
   </picture>
 </div>
