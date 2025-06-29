@@ -62,17 +62,25 @@ A Systems Engineering student with a strong focus on frontend development. Passi
 
 <div align="left">
   <h3>My Development Environment</h3>
-  <img height="30" src="https://cdn.simpleicons.org/nixos" alt="NixOS logo"  />
+  <img height="30" src="https://cdn.simpleicons.org/thinkpad" alt="Thinkpad logo"  />
   <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/i3" alt="i3 logo"  />
+  <img height="30" src="https://cdn.simpleicons.org/archlinux" alt="Archlinux logo"  />
   <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/wezterm" alt="Wezterm logo"  />
+  <img height="30" src="https://cdn.simpleicons.org/hyprland" alt="Hyprland logo"  />
+  <img width="6" />
+  <!--TEMPORAL-->
+  <img height="30" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/brave" alt="Brave logo"  />
   <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/zedindustries" alt="Zed logo"  />
+  <!--TEMPORAL-->
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c71019df928d3b83a5628858dc72f2cb63375bb2/icons/cursor.svg" alt="Cursor logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/openai" alt="Open AI logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/claude" alt="Claude AI logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo"  />
 </div>
 
 ---
