@@ -89,7 +89,7 @@ A Systems Engineering student with a strong focus on frontend development. Passi
       srcset="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dalo-dev&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
   </picture>
   <picture>
     <source
@@ -100,7 +100,7 @@ A Systems Engineering student with a strong focus on frontend development. Passi
       srcset="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&hide_border=false&border_radius=5" height="200" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=dalo-dev&locale=en&mode=daily&hide_border=false&border_radius=5" height="150" alt="GitHub Streak"/>
   </picture>
 </div>
 
@@ -116,7 +116,7 @@ A Systems Engineering student with a strong focus on frontend development. Passi
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=tokyonight"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=tokyonight" height="400" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-dev&theme=tokyonight" height="300" alt="Top Languages"/>
   </picture>
   <picture>
     <source
@@ -127,6 +127,6 @@ A Systems Engineering student with a strong focus on frontend development. Passi
       srcset="https://leetcard.jacoblin.cool/dalo-dev?theme=catppuccinMocha&ext=activity&border=2"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://leetcard.jacoblin.cool/dalo-dev?theme=catppuccinMocha&ext=activity&border=2" alt="Leetcode Activity" />
+    <img src="https://leetcard.jacoblin.cool/dalo-dev?theme=catppuccinMocha&ext=activity&border=2" height="300" alt="Leetcode Activity" />
   </picture>
 </div>
