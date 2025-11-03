@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-A Systems Engineering student with a strong focus on frontend development. Passionate about creating modern, scalable, and accessible interfaces. Practical experience with React, Angular, and TypeScript, working in agile environments with automated testing. I'm motivated to solve real-world problems through intuitive and efficient solutions. I aim to add value to teams that drive technological innovation.
+Systems Engineer with a strong focus on frontend development. Passionate about creating modern, scalable, and accessible interfaces. Practical experience with React, Angular, and TypeScript, working in agile environments with automated testing. I'm motivated to solve real-world problems through intuitive and efficient solutions. I aim to add value to teams that drive technological innovation.
 
 ---
 
